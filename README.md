@@ -4,6 +4,7 @@ ExpenseTracker Class
 
 The constructor initializes an empty list expenses.
 
+
 2. Methods:
 
 add_expense(amount, category): Adds a new expense with the given amount and category.
@@ -26,11 +27,17 @@ An instance of ExpenseTracker is created.
 
 Displays a menu with options:
 1]Add Expense
+
 2]Categorize Expense
+
 3]View Expenses
+
 4]View Summary
+
 5]View Insights
+
 6]Exit
+
 
 3. Menu Options:
 
@@ -45,6 +52,7 @@ View Summary: Shows total expenses by category.
 View Insights: Shows total spending and the most common category.
 
 Exit: Ends the program.
+
 
 4. Invalid Input Handling:
 
